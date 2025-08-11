@@ -28,4 +28,5 @@ There are adjustable values in the program that you can change to get different 
 I made this because I couldn't find any "simple" C implementation of a flow field. All or most of the examples I could find were in C++ and that language overwhelms me, so I avoided even checking them out. 
 
 Anyway enjoy.
+
 Kenneth
